@@ -22,7 +22,7 @@ title: Source Tracking the Microbiomes of Zebrafish
 author: Caitlin Smith, PhD
 email: csmith29@uoregon.edu
 description: >- # this means to ignore newlines until "baseurl:"
-  This site accompanies the poster "Sources to the Danio rerio egg and larval microbiomes" presented at the 5th Fish Microbiota Workshop in 2025. Designed and Maintained by Caitlin Smith, PhD.
+  This site accompanies the poster "Sources to the Danio rerio egg and larval microbiomes" presented at the 5th Fish Microbiota Workshop in 2025. 
 # baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://biocsmith.github.io/zfishsource/" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  biosmith

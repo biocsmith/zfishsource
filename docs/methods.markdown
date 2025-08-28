@@ -2,6 +2,7 @@
 layout: page
 title: Methods
 permalink: /methods/
+order: 1
 ---
 
 ## Sampling
