@@ -5,4 +5,4 @@
 layout: home
 ---
 
-![poster](images/fishws2025_poster.png)
+![poster](docs/images/fishws2025_poster.png)
