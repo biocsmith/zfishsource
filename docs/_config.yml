@@ -28,6 +28,7 @@ github_username:  biosmith
 
 # Build settings
 theme: jekyll-theme-minimal
+markdown: kramdown
 
 
 # Exclude from processing.
