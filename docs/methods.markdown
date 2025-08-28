@@ -18,8 +18,8 @@ Sampling occurred at 0 days post fertilization (dpf), 2 dpf, 5 dpf and 7 dpf. At
 
 We used 16S rRNA sequencing to survey the microbiomes of our samples. All data analyses were conducted in R. We used the R package *FEAST*[^1] to estimate the contributions of the different source communities (parents, water, and rotifers) to the sink communties (eggs and larvae). We also examined how previous development stages contribute microbes to later development stages (i.e. 0 dpf eggs to 2 dpf, 5 dpf and 7 dpf) by running FEAST with development stages also considered sources. We used Baysian regression models[^2] to determine whether source contributions changed over development. To identify putatively transmitted taxa, we used the package *indicspecies* to perform an Indicator Species Analysis [^3]. 
 
-[^1] Shenhav L, Thompson M, Joseph TA, Briscoe L, Furman O, Bogumil D, et al. FEAST: fast expectation-maximization for microbial source tracking. Nat Methods. 2019 Jul;16(7):627–32. 
+[^1]: Shenhav L, Thompson M, Joseph TA, Briscoe L, Furman O, Bogumil D, et al. FEAST: fast expectation-maximization for microbial source tracking. Nat Methods. 2019 Jul;16(7):627–32. 
 
-[^2] Bürkner PC. brms : An R Package for Bayesian Multilevel Models Using Stan. J Stat Soft. 2017. Available from: http://www.jstatsoft.org/v80/i01/
+[^2]: Bürkner PC. brms : An R Package for Bayesian Multilevel Models Using Stan. J Stat Soft. 2017. Available from: http://www.jstatsoft.org/v80/i01/
 
-[^3] De Cáceres M, Legendre P. Associations between species and groups of sites: indices and statistical inference. Ecology. 2009 Dec;90(12):3566–74. 
+[^3]: De Cáceres M, Legendre P. Associations between species and groups of sites: indices and statistical inference. Ecology. 2009 Dec;90(12):3566–74. 
