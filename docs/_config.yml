@@ -27,7 +27,7 @@ url: https://biocsmith.github.io/zfishsource/ # the base hostname & protocol for
 github_username:  biosmith
 
 # Build settings
-theme: minima
+theme: jekyll-theme-minimal
 
 
 # Exclude from processing.
