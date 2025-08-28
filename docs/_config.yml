@@ -1,4 +1,5 @@
-
+# Welcome to Jekyll!
+#
 # This config file is meant for settings that affect your whole blog, values
 # which you are expected to set up once and rarely edit after that. If you find
 # yourself editing this file very often, consider using Jekyll's data files
@@ -18,18 +19,18 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Source Tracking the Microbiomes of Zebrafish
-domain: biosmith.github.io
 email: csmith29@uoregon.edu
 description: >- # this means to ignore newlines until "baseurl:"
   This site accompanies the poster "Sources to the Danio rerio egg and larval microbiomes" presented at the 5th Fish Microbiota Workshop in 2025.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: https://biocsmith.github.io/zfishsource/ # the base hostname & protocol for your site, e.g. http://example.com
-github_username:  biosmith
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: jekyllrb
+github_username:  jekyll
 
 # Build settings
-theme: jekyll-theme-minimal
-markdown: kramdown
-
+theme: minima
+plugins:
+  - jekyll-feed
 
 # Exclude from processing.
 # The following items will not be processed, by default.
