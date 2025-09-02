@@ -7,7 +7,7 @@ order: 2
 
 ## Microbiome composition changes over development
 
-Consistent with our previous findings [^1], *Proteobacteria* are a common phylum in the egg microbiome (Figure 1). However, quickly after hatching, *Firmicutes* dominate the larval gut microbiome.
+Consistent with our previous findings [^1], *Proteobacteria* is a common phylum in the egg microbiome (Figure 1). However, quickly after hatching, *Firmicutes* dominate the larval gut microbiome.
 
 ![relative abundance](images/relabun_egg.png)
 *Figure 1: Relative abundance of genera in zebrafish eggs and larvae. Color groupings represent phylum-level classification.*
@@ -17,4 +17,4 @@ Age, or developmental stage, also significantly explains variation in microbiome
 ![diversity](images/diversity.png)
 *Figure 2: (A) Principle Coordinates Analysis of Bray-Curtis Dissimilarity reveals age drives variation in microbiome composition. (B) Shannon diversity of egg and larval gut microbiome changes during different stages of development.*
 
-[^1]: link to bioRXiv doc.
+[^1]: Smith C, Adair K, Bohannan BJM. Drivers of Variation of the Zebrafish Egg Microbiome. 2025. Available from: http://biorxiv.org/lookup/doi/10.1101/2025.09.01.673521
